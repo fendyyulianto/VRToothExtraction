@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 75eeb6f32d94b6e40a20568c634b42a9
+timeCreated: 1542626105
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: Bone023
+    100004: Bone024
+    100006: Bone025
+    100008: Bone026
+    100010: Bone029
+    100012: Bone030
+    100014: Bone031
+    100016: Bone032
+    100018: Bone036
+    100020: Bone037
+    100022: Bone039
+    100024: Bone041
+    100026: BottomGum
+    100028: Chest
+    100030: GUSI-GIGI-atas
+    100032: GUSI-GIGI-bawah
+    100034: Head
+    100036: Head 1
+    100038: Hip
+    100040: //RootNode
+    100042: LHand
+    100044: LLeg
+    100046: LPelvis
+    100048: LSHolder
+    100050: Neck
+    100052: RHand
+    100054: RLeg
+    100056: RPlevis
+    100058: RSholder
+    100060: Torso
+    100062: UpperGum
+    400000: body
+    400002: Bone023
+    400004: Bone024
+    400006: Bone025
+    400008: Bone026
+    400010: Bone029
+    400012: Bone030
+    400014: Bone031
+    400016: Bone032
+    400018: Bone036
+    400020: Bone037
+    400022: Bone039
+    400024: Bone041
+    400026: BottomGum
+    400028: Chest
+    400030: GUSI-GIGI-atas
+    400032: GUSI-GIGI-bawah
+    400034: Head
+    400036: Head 1
+    400038: Hip
+    400040: //RootNode
+    400042: LHand
+    400044: LLeg
+    400046: LPelvis
+    400048: LSHolder
+    400050: Neck
+    400052: RHand
+    400054: RLeg
+    400056: RPlevis
+    400058: RSholder
+    400060: Torso
+    400062: UpperGum
+    2300000: GUSI-GIGI-atas
+    2300002: GUSI-GIGI-bawah
+    3300000: GUSI-GIGI-atas
+    3300002: GUSI-GIGI-bawah
+    4300000: body
+    4300002: Head
+    4300004: GUSI-GIGI-atas
+    4300006: GUSI-GIGI-bawah
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: Head
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

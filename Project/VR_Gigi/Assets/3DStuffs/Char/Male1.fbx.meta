@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: b3b84fd67b8609e46ab2f5481e334366
+timeCreated: 1541409316
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BodyChar
+    100002: Bone002
+    100004: Bone003
+    100006: Bone005
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone009
+    100016: Bone010
+    100018: Bone012
+    100020: Bone013
+    100022: Bone014
+    100024: Bone015
+    100026: Bone016
+    100028: Bone017
+    100030: Group002
+    100032: Group003
+    100034: Group004
+    100036: Group005
+    100038: Group006
+    100040: Group1473
+    100042: Group19059
+    100044: Group21629
+    100046: Group36677
+    100048: Group53134
+    100050: Group54294
+    100052: Group6393
+    100054: Hair-Eyes
+    100056: KananAtas
+    100058: KananBawah
+    100060: Kepala
+    100062: KiriBawah
+    100064: KriiAtas
+    100066: LeftLeg
+    100068: LeftPart
+    100070: Leher
+    100072: LowerBody
+    100074: MainFace
+    100076: //RootNode
+    100078: Pelvis
+    100080: Rahang
+    100082: RightLeg
+    100084: RightPart
+    400000: BodyChar
+    400002: Bone002
+    400004: Bone003
+    400006: Bone005
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone009
+    400016: Bone010
+    400018: Bone012
+    400020: Bone013
+    400022: Bone014
+    400024: Bone015
+    400026: Bone016
+    400028: Bone017
+    400030: Group002
+    400032: Group003
+    400034: Group004
+    400036: Group005
+    400038: Group006
+    400040: Group1473
+    400042: Group19059
+    400044: Group21629
+    400046: Group36677
+    400048: Group53134
+    400050: Group54294
+    400052: Group6393
+    400054: Hair-Eyes
+    400056: KananAtas
+    400058: KananBawah
+    400060: Kepala
+    400062: KiriBawah
+    400064: KriiAtas
+    400066: LeftLeg
+    400068: LeftPart
+    400070: Leher
+    400072: LowerBody
+    400074: MainFace
+    400076: //RootNode
+    400078: Pelvis
+    400080: Rahang
+    400082: RightLeg
+    400084: RightPart
+    2300000: Group002
+    2300002: Group003
+    2300004: Group004
+    2300006: Group005
+    2300008: Group006
+    2300010: Group1473
+    2300012: Group19059
+    2300014: Group21629
+    2300016: Group36677
+    2300018: Group53134
+    2300020: Group54294
+    2300022: Group6393
+    2300024: Hair-Eyes
+    3300000: Group002
+    3300002: Group003
+    3300004: Group004
+    3300006: Group005
+    3300008: Group006
+    3300010: Group1473
+    3300012: Group19059
+    3300014: Group21629
+    3300016: Group36677
+    3300018: Group53134
+    3300020: Group54294
+    3300022: Group6393
+    3300024: Hair-Eyes
+    4300000: MainFace
+    4300002: BodyChar
+    4300004: Group21629
+    4300006: Group002
+    4300008: Group004
+    4300010: Group006
+    4300012: Group003
+    4300014: Group005
+    4300016: Group53134
+    4300018: Group19059
+    4300020: Group36677
+    4300022: Group1473
+    4300024: Group54294
+    4300026: Group6393
+    4300028: Hair-Eyes
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BodyChar
+    13700002: MainFace
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
