@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 75eeb6f32d94b6e40a20568c634b42a9
-timeCreated: 1542626105
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: body
     100002: Bone023
@@ -37,6 +35,38 @@ ModelImporter:
     100058: RSholder
     100060: Torso
     100062: UpperGum
+    100064: 11
+    100066: Geraham-bwh-1a
+    100068: Geraham-bwh-1B
+    100070: Geraham-bwh-2a
+    100072: Geraham-bwh-2B
+    100074: Geraham-bwh-3a
+    100076: Geraham-bwh-3B
+    100078: geraham1
+    100080: Geraham1B
+    100082: Geraham2
+    100084: Geraham2B
+    100086: Geraham3
+    100088: Geraham3B
+    100090: Seri-bwh-1A
+    100092: Seri-bwh-1B
+    100094: Seri-bwh-2A
+    100096: Seri-bwh-2B
+    100098: Seri-bwh-2B001
+    100100: Seri-bwh-3A
+    100102: SeriDepan1
+    100104: SeriDepan1B
+    100106: SeriDepan2
+    100108: SeriDepan2B
+    100110: SeriDepan3
+    100112: SeriDepan3B
+    100114: Taring-Bwh-1B
+    100116: Taring-Bwh-2A
+    100118: Taring-Bwh-2B
+    100120: Taring1
+    100122: Taring1B
+    100124: Taring2
+    100126: Taring2B
     400000: body
     400002: Bone023
     400004: Bone024
@@ -69,22 +99,182 @@ ModelImporter:
     400058: RSholder
     400060: Torso
     400062: UpperGum
+    400064: 11
+    400066: Geraham-bwh-1a
+    400068: Geraham-bwh-1B
+    400070: Geraham-bwh-2a
+    400072: Geraham-bwh-2B
+    400074: Geraham-bwh-3a
+    400076: Geraham-bwh-3B
+    400078: geraham1
+    400080: Geraham1B
+    400082: Geraham2
+    400084: Geraham2B
+    400086: Geraham3
+    400088: Geraham3B
+    400090: Seri-bwh-1A
+    400092: Seri-bwh-1B
+    400094: Seri-bwh-2A
+    400096: Seri-bwh-2B
+    400098: Seri-bwh-2B001
+    400100: Seri-bwh-3A
+    400102: SeriDepan1
+    400104: SeriDepan1B
+    400106: SeriDepan2
+    400108: SeriDepan2B
+    400110: SeriDepan3
+    400112: SeriDepan3B
+    400114: Taring-Bwh-1B
+    400116: Taring-Bwh-2A
+    400118: Taring-Bwh-2B
+    400120: Taring1
+    400122: Taring1B
+    400124: Taring2
+    400126: Taring2B
     2300000: GUSI-GIGI-atas
     2300002: GUSI-GIGI-bawah
+    2300004: 11
+    2300006: Geraham-bwh-1a
+    2300008: Geraham-bwh-1B
+    2300010: Geraham-bwh-2a
+    2300012: Geraham-bwh-2B
+    2300014: Geraham-bwh-3a
+    2300016: Geraham-bwh-3B
+    2300018: geraham1
+    2300020: Geraham1B
+    2300022: Geraham2
+    2300024: Geraham2B
+    2300026: Geraham3
+    2300028: Geraham3B
+    2300030: Seri-bwh-1A
+    2300032: Seri-bwh-1B
+    2300034: Seri-bwh-2A
+    2300036: Seri-bwh-2B
+    2300038: Seri-bwh-2B001
+    2300040: Seri-bwh-3A
+    2300042: SeriDepan1
+    2300044: SeriDepan1B
+    2300046: SeriDepan2
+    2300048: SeriDepan2B
+    2300050: SeriDepan3
+    2300052: SeriDepan3B
+    2300054: Taring-Bwh-1B
+    2300056: Taring-Bwh-2A
+    2300058: Taring-Bwh-2B
+    2300060: Taring1
+    2300062: Taring1B
+    2300064: Taring2
+    2300066: Taring2B
     3300000: GUSI-GIGI-atas
     3300002: GUSI-GIGI-bawah
+    3300004: 11
+    3300006: Geraham-bwh-1a
+    3300008: Geraham-bwh-1B
+    3300010: Geraham-bwh-2a
+    3300012: Geraham-bwh-2B
+    3300014: Geraham-bwh-3a
+    3300016: Geraham-bwh-3B
+    3300018: geraham1
+    3300020: Geraham1B
+    3300022: Geraham2
+    3300024: Geraham2B
+    3300026: Geraham3
+    3300028: Geraham3B
+    3300030: Seri-bwh-1A
+    3300032: Seri-bwh-1B
+    3300034: Seri-bwh-2A
+    3300036: Seri-bwh-2B
+    3300038: Seri-bwh-2B001
+    3300040: Seri-bwh-3A
+    3300042: SeriDepan1
+    3300044: SeriDepan1B
+    3300046: SeriDepan2
+    3300048: SeriDepan2B
+    3300050: SeriDepan3
+    3300052: SeriDepan3B
+    3300054: Taring-Bwh-1B
+    3300056: Taring-Bwh-2A
+    3300058: Taring-Bwh-2B
+    3300060: Taring1
+    3300062: Taring1B
+    3300064: Taring2
+    3300066: Taring2B
     4300000: body
     4300002: Head
     4300004: GUSI-GIGI-atas
     4300006: GUSI-GIGI-bawah
+    4300008: Geraham3
+    4300010: Geraham3B
+    4300012: Geraham2B
+    4300014: Geraham2
+    4300016: Geraham1B
+    4300018: Taring2
+    4300020: Taring2B
+    4300022: Taring1
+    4300024: Taring1B
+    4300026: SeriDepan3
+    4300028: SeriDepan2
+    4300030: SeriDepan1
+    4300032: SeriDepan1B
+    4300034: SeriDepan3B
+    4300036: SeriDepan2B
+    4300038: geraham1
+    4300040: Geraham-bwh-3a
+    4300042: Geraham-bwh-2a
+    4300044: Geraham-bwh-1a
+    4300046: Taring-Bwh-2A
+    4300048: 11
+    4300050: Seri-bwh-3A
+    4300052: Seri-bwh-2A
+    4300054: Seri-bwh-1A
+    4300056: Seri-bwh-1B
+    4300058: Seri-bwh-2B
+    4300060: Seri-bwh-2B001
+    4300062: Taring-Bwh-1B
+    4300064: Taring-Bwh-2B
+    4300066: Geraham-bwh-1B
+    4300068: Geraham-bwh-2B
+    4300070: Geraham-bwh-3B
     7400000: Take 001
     9500000: //RootNode
     13700000: body
     13700002: Head
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 58eadf38e3156f940b89bf16fbd9dc9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Face
+    second: {fileID: 2100000, guid: aca2f4bd4698b8d4ca60fb6ae550bb56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head
+    second: {fileID: 2100000, guid: c8cfe68a0b59303468da0c4276257a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: 803077bd31dfdaf479de977f2b480410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoe
+    second: {fileID: 2100000, guid: f31010ad76f2cf44c9fc30e55e1a5107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Short
+    second: {fileID: 2100000, guid: 89fe55679f3a29c478302c90f5a3bd7f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -97,12 +287,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -110,22 +303,30 @@ ModelImporter:
     globalScale: 40
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 40
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
